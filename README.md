@@ -11,6 +11,4 @@ Download notebook locally : https://github.com/rrm2lr/jypyter_scripts/blob/main/
 
 And then import it nfm_onenotebook inside the folder with your username:
 
-![alt text](image.png)
-
-Please copy the <hash> from the output of the recompute run and update the 'hash_foc_run' = <hash>
+Please copy the hash from the output of the recompute run and update the 'hash_foc_run'
