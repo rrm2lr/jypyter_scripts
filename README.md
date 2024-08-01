@@ -7,10 +7,6 @@ Output : CSV file containing the FMD KPIS
 
 If required, more column fields can be added/removed in the CSV file
 
-Download notebook locally : https://github.com/rrm2lr/jypyter_scripts/blob/main/kpis_fmd_status.ipynb
+Download notebook locally : https://github.com/rrm2lr/jypyter_scripts/blob/main/kpis_fmd_status.ipynb and import it inside the nfm_onenotebook folder with your username.
 
-And then import it nfm_onenotebook inside the folder with your username:
-
-![alt text](image.png)
-
-Please copy the <hash> from the output of the recompute run and update the 'hash_foc_run' = <hash>
+Please copy the hash from the output of the recompute run and update the 'hash_foc_run'.
